@@ -1,0 +1,30 @@
+C:\Users\Nour Kafy\source\repos\CompanyProject2\CompanyProject2\bin\Debug\net6.0\JobApplicationTracker.exe
+C:\Users\Nour Kafy\source\repos\CompanyProject2\CompanyProject2\bin\Debug\net6.0\JobApplicationTracker.deps.json
+C:\Users\Nour Kafy\source\repos\CompanyProject2\CompanyProject2\bin\Debug\net6.0\JobApplicationTracker.runtimeconfig.json
+C:\Users\Nour Kafy\source\repos\CompanyProject2\CompanyProject2\bin\Debug\net6.0\JobApplicationTracker.dll
+C:\Users\Nour Kafy\source\repos\CompanyProject2\CompanyProject2\bin\Debug\net6.0\JobApplicationTracker.pdb
+C:\Users\Nour Kafy\source\repos\CompanyProject2\CompanyProject2\obj\Debug\net6.0\JobApplicationTracker.csproj.AssemblyReference.cache
+C:\Users\Nour Kafy\source\repos\CompanyProject2\CompanyProject2\obj\Debug\net6.0\JobApplicationTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nour Kafy\source\repos\CompanyProject2\CompanyProject2\obj\Debug\net6.0\JobApplicationTracker.AssemblyInfoInputs.cache
+C:\Users\Nour Kafy\source\repos\CompanyProject2\CompanyProject2\obj\Debug\net6.0\JobApplicationTracker.AssemblyInfo.cs
+C:\Users\Nour Kafy\source\repos\CompanyProject2\CompanyProject2\obj\Debug\net6.0\JobApplicationTracker.csproj.CoreCompileInputs.cache
+C:\Users\Nour Kafy\source\repos\CompanyProject2\CompanyProject2\obj\Debug\net6.0\JobApplicationTracker.dll
+C:\Users\Nour Kafy\source\repos\CompanyProject2\CompanyProject2\obj\Debug\net6.0\refint\JobApplicationTracker.dll
+C:\Users\Nour Kafy\source\repos\CompanyProject2\CompanyProject2\obj\Debug\net6.0\JobApplicationTracker.pdb
+C:\Users\Nour Kafy\source\repos\CompanyProject2\CompanyProject2\obj\Debug\net6.0\JobApplicationTracker.genruntimeconfig.cache
+C:\Users\Nour Kafy\source\repos\CompanyProject2\CompanyProject2\obj\Debug\net6.0\ref\JobApplicationTracker.dll
+E:\Tawjeh\JobApplicationTracker\bin\Debug\net6.0\JobApplicationTracker.exe
+E:\Tawjeh\JobApplicationTracker\bin\Debug\net6.0\JobApplicationTracker.deps.json
+E:\Tawjeh\JobApplicationTracker\bin\Debug\net6.0\JobApplicationTracker.runtimeconfig.json
+E:\Tawjeh\JobApplicationTracker\bin\Debug\net6.0\JobApplicationTracker.dll
+E:\Tawjeh\JobApplicationTracker\bin\Debug\net6.0\JobApplicationTracker.pdb
+E:\Tawjeh\JobApplicationTracker\obj\Debug\net6.0\JobApplicationTracker.csproj.AssemblyReference.cache
+E:\Tawjeh\JobApplicationTracker\obj\Debug\net6.0\JobApplicationTracker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tawjeh\JobApplicationTracker\obj\Debug\net6.0\JobApplicationTracker.AssemblyInfoInputs.cache
+E:\Tawjeh\JobApplicationTracker\obj\Debug\net6.0\JobApplicationTracker.AssemblyInfo.cs
+E:\Tawjeh\JobApplicationTracker\obj\Debug\net6.0\JobApplicationTracker.csproj.CoreCompileInputs.cache
+E:\Tawjeh\JobApplicationTracker\obj\Debug\net6.0\JobApplicationTracker.dll
+E:\Tawjeh\JobApplicationTracker\obj\Debug\net6.0\refint\JobApplicationTracker.dll
+E:\Tawjeh\JobApplicationTracker\obj\Debug\net6.0\JobApplicationTracker.pdb
+E:\Tawjeh\JobApplicationTracker\obj\Debug\net6.0\JobApplicationTracker.genruntimeconfig.cache
+E:\Tawjeh\JobApplicationTracker\obj\Debug\net6.0\ref\JobApplicationTracker.dll
